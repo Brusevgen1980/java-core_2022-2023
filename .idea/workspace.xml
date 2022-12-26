@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9822b4f4-cd9e-451d-a534-db25525ce18e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core_2022-2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task1293/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/lr1/Example3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/timus/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/timus/task1293/Main.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JSB1XmFa0TZMvEVTBiUUeoFBwp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example13" />
+      <module name="java-core_2022-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example14" />
+      <module name="java-core_2022-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example15" />
+      <module name="java-core_2022-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task1293.Main" />
+      <module name="java-core_2022-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timus.task1293.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.main" />
+      <module name="java-core_2022-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Example15" />
+        <item itemvalue="Application.Example14" />
+        <item itemvalue="Application.Example13" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9822b4f4-cd9e-451d-a534-db25525ce18e" name="Changes" comment="" />
+      <created>1672061393678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672061393678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_core_2022_2023$Example4.ic" NAME="Example4 Coverage Results" MODIFIED="1672062245921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lr1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
