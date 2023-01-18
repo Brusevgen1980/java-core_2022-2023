@@ -8,8 +8,6 @@ public class Example4 {
 
         if (a>=5 && a<=10) {
             System.out.println("Число подходит");
-        } else {
-            System.out.println("Не подходит");
-        }
+        } else System.out.println("Не подходит");
     }
 }

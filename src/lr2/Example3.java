@@ -8,9 +8,7 @@ public class Example3 {
         int res1 = a % 4;
 
         if (res1 == 0 && a > 10) {
-            System.out.println("Число подходит");
-        } else {
-            System.out.println("Число не подходит");
-        }
+            System.out.println("Число подходит");}
+        else System.out.println("Число не подходит");
     }
 }

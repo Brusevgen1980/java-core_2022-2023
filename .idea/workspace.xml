@@ -4,30 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9822b4f4-cd9e-451d-a534-db25525ce18e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core_2022-2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1293/Main.java" afterDir="false" />
+    <list default="true" id="9822b4f4-cd9e-451d-a534-db25525ce18e" name="Changes" comment="initial com">
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/Example9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr2/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr2/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr2/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr2/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr2/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr2/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr2/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr2/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr5/Example6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +59,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/lr1/Example3.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/timus/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr2/Example5.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr3/Example1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr3/Example10.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr3/Example3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr3/Example5.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lr4/Example2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr4/Example4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr4/Example6.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr4/Example7.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr5/Example2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr5/Example4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr6/Example2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr6/Example3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr6/Example5.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr6/Example7.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr6/Example8.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/lr6/Example9.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/timus/task1000/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/timus/task1001/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/timus/task1005/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/timus/task1293/Main.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -63,16 +101,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "create.test.in.the.same.root": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example13" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lr2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Example2">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.Example1" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="lr7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example14" />
+    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr6.Example10" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="lr6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example15" />
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example2" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr1.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task1293.Main" />
+    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr6.Example9" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.task1293.*" />
+          <option name="PATTERN" value="lr6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.main" />
+    <configuration name="lr3.Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example1" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Example15" />
-        <item itemvalue="Application.Example14" />
-        <item itemvalue="Application.Example13" />
+        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.lr3.Example1" />
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Example10" />
+        <item itemvalue="Application.Example9" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +195,28 @@
       <option name="presentableId" value="Default" />
       <updated>1672061393678</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial com">
+      <created>1673938255260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673938255260</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial com">
+      <created>1673939696405</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673939696405</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial com">
+      <created>1673951430481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673951430481</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +235,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial com" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial com" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_core_2022_2023$Example4.ic" NAME="Example4 Coverage Results" MODIFIED="1672062245921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
